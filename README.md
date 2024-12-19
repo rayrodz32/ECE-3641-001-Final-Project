@@ -17,4 +17,6 @@ https://www.youtube.com/shorts/U1v7lLLqbgs
 
 
 # Data File
-Code is in the final-project.ipynb for some reason it does not preview click on the code box.
+Code is in the Dataset file
+
+# final-project.ipynb
